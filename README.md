@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aykut
 - 👀 I’m interested in Web Development, Web Design and also Music Producing.
-- 🌱 I’m currently learning Web Design, Python, C# , Javascript, 
-- 💞️ I’m looking to collaborate on Web and Multiplatform Applications Projects
+- 🌱 I’m currently learning Generative AI, Full Stack Software Development, Python, PHP, C#, Javascript, 
+- 💞️ I’m looking to collaborate on Web, Software and Multiplatform Application Projects
 - 📫 akcali.aykut1@gmail.com
 
 <!---
